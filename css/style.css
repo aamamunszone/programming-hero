@@ -201,13 +201,15 @@ address img {
   margin-bottom: 1rem;
 }
 
-address a:link, address a:visited {
+address a:link,
+address a:visited {
   text-decoration: none;
   color: #fff;
   font-size: 22px;
 }
 
-address a:hover, address a:active {
+address a:hover,
+address a:active {
   text-decoration: none;
   color: #e699ff;
   font-size: 22px;
